@@ -1,0 +1,5 @@
+# Knight Foundation landing page
+
+A one-page peer read for the Knight Foundation team, built in Knight's own visual vocabulary: warm cream canvas (#ffffef), the black K mark at scale, the orange-red accent (#eb4826) used sparingly, and the program-area pastel tagging system (peach, mint, cyan, butter) carried into the body sections. The headline is the fit-analysis hypothesis verbatim: a read on where AI fits in Knight's grantmaking, and where it doesn't. The body opens with the 60/30/10 framing, names Knight's new AI & Insights role and the Partnership on AI and Knight/USC Marshall work, drops the Correlation One cohort shape as the closest precedent (1,500+ trained, 6 to 9k hours saved, 95% 30-day adoption), cites the Interpretable Context Methodology paper and the Ethics Engine as methodology references rather than vendor whitepapers, and closes with a single ask: 30 minutes with Matt Creamer. No pricing, no hype, no em dashes, no performed questions, Eduba attribution only in the footer.
+
+Intended URL path: /for/knight-foundation
